@@ -1,0 +1,7 @@
+step1: start
+step2: enter a interger number 
+step3: number is divided by 4
+step4: leap year
+step5: numbrt is not divided by 4 
+step6: odd year
+step7: end

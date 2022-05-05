@@ -1,0 +1,7 @@
+step 1: Declare N and F as integer variable.
+step 2: initialize F=1
+          Enter the value of N.
+step 3: check whether N>0, if not then F=1. 
+step 4: if yes then, F=F*N . 
+step 5: Decrease the value of N by 1
+step 6: Repeat step 4 and 5 until N=0.		  

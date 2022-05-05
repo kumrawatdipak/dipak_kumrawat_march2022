@@ -1,0 +1,6 @@
+step1: start 
+step2: enter value a and b.
+step3: A=a+b.
+step4: B=a-b.
+step5: A=a-b.
+step6: end

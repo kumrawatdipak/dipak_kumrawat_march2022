@@ -1,0 +1,28 @@
+step1: start 
+step2: enter first ,second, third number 
+step3: if the first number is smaller than second and third. 
+         yes then  print it
+step4: else second number is smaller than first and third 
+       yes print it 
+step5: end 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check if the first element is smaller than second and third. If yes then print it.
+
+Else if check if the second element is smaller than first and third. If yes then print it.
+
+Else third is the smallest element and print it.
+
+Below is the implementation of the above approach

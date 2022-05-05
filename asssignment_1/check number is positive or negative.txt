@@ -1,0 +1,7 @@
+step1: start
+step2: enter a number
+step3: if (number >0)
+       number is positive
+step4: else (number <0)
+       number is negative
+step5: end 
