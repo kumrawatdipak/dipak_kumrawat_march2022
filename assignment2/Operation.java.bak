@@ -1,0 +1,15 @@
+import java.util.Scanner;
+class Operation{
+
+public static void main(String[] args){
+ double a1=-5+8*6;
+ double a2= (55+9)%9;
+ double a3= 20+-3*5/8;
+ double a4= 5+15/3*2-8%3;
+ 
+ System.out.println(a1);
+ System.out.println(a2);
+ System.out.println(a3);
+ System.out.println(a4);
+ }
+ }
